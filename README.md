@@ -1,6 +1,8 @@
-# Countdown-DNC
+# 🚀 Countdown-DNC 🚀
 
-## Pude me aprofundar em como fazer as coisas acontecerem de forma automatica, através de manipulação de Datas! <br>
+## ⚙️  I used HTML to structure the page, CSS to create a minimalist style for it, and JavaScript to create the countdown function! ⚙️
 
-### Link para a aplicação: <br>
-https://countdown-kaique-medeiros.netlify.app/
+### 📚  I was able to delve into how to make things happen automatically through manipulating dates with JavaScript! <br> 📚
+
+### 🖥️ Link to the application: 🖥️ <br> 
+https://countdown-kaique-medeiros.netlify.app
